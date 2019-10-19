@@ -8,7 +8,7 @@ public class Program {
         Pizzeria wloskaPizzeria = new WloskaPizzeria();
         wloskaPizzeria.zamowPizza("serowa");
 
-//        Pizzeria amerykanskaPizzeria = new AmerykanskaPizzeria();
-//        amerykanskaPizzeria.zamowPizza("serowa");
+        Pizzeria amerykanskaPizzeria = new AmerykanskaPizzeria();
+        amerykanskaPizzeria.zamowPizza("serowa");
     }
 }
